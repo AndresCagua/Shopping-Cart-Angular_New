@@ -1,0 +1,12 @@
+<!---->
+<div class="cart-item" style="text-align:center">
+  <strong >{{ cartItem.name }}</strong> x
+  <span *ngIf="render" > 1 </span>:
+  <strong *ngIf="render">{{ ( 1 *cart.price) | currency:'USD' }}</strong>
+  <!--<p [(id)]="cartItem.productId">
+    {{cartItem.productId}}
+  </p>-->
+
+  
+</div>
+

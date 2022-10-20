@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ryck and Morty_1",
+      "description": "fsdfsdf",
+      "imageUrl": "https://m.media-amazon.com/images/I/51XJOFqBREL._SX331_BO1,204,203,200_.jpg",
+      "price": 666
+    },
+    {
+      "id": 2,
+      "name": "Ryck and Morty_2",
+      "description": "dfsdfsdfsdfsdf",
+      "imageUrl": "https://www.formulatv.com/images/series/posters/1500/1524/dest_1.jpg",
+      "price": 456
+    },
+    {
+      "id": 3,
+      "name": "Ryck and Morty_3",
+      "description": "sdfsdfsdfsdfsdfdsf",
+      "imageUrl": "https://es.web.img3.acsta.net/pictures/18/10/31/17/34/2348073.jpg",
+      "price": 986
+    },
+    {
+      "id": 4,
+      "name": "Ryck and Morty_4",
+      "description": "fsdfsdfsdfsdf",
+      "imageUrl": "https://media.vandalsports.com/i/640x360/5-2022/202251816546_1.jpg",
+      "price": 898
+    },
+    {
+      "id": 5,
+      "name": "Ryck and Morty_5",
+      "description": "dfssdfdsfsdfsdf",
+      "imageUrl": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/10/rick-morty-season-6.jpg?fit=1280%2C720&quality=80&ssl=1",
+      "price": 347
+    },
+    {
+      "id": 6,
+      "name": "Ryck and Morty_6",
+      "description": "dfssdfdsfsdfsdf",
+      "imageUrl": "https://occ-0-990-2774.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQiueWggGi5jRi90-HxWCCR50UQv0Ah8_FlRzbT3hib02J5mvN9-g8YsT8jN9dFdgspCFLSHgc27S-fqRNxBglbwfHexRSKVQWIN.jpg?r=9b9",
+      "price": 678
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Ryck and Morty_1",
+        "description": "fsdfsdf",
+        "imageUrl": "https://m.media-amazon.com/images/I/51XJOFqBREL._SX331_BO1,204,203,200_.jpg",
+        "price": 666
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Ryck and Morty_2",
+        "description": "dfsdfsdfsdfsdf",
+        "imageUrl": "https://www.formulatv.com/images/series/posters/1500/1524/dest_1.jpg",
+        "price": 456
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Ryck and Morty_3",
+        "description": "sdfsdfsdfsdfsdfdsf",
+        "imageUrl": "https://es.web.img3.acsta.net/pictures/18/10/31/17/34/2348073.jpg",
+        "price": 986
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Ryck and Morty_4",
+        "description": "fsdfsdfsdfsdf",
+        "imageUrl": "https://media.vandalsports.com/i/640x360/5-2022/202251816546_1.jpg",
+        "price": 898
+      },
+      "id": 4
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
